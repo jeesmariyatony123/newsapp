@@ -1,3 +1,11 @@
+
+
+[screen-capture (3).webm](https://github.com/jeesmariyatony123/newsapp/assets/153613522/a42c81ec-5692-47bd-abfe-11e1dcbdd6fb)
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
